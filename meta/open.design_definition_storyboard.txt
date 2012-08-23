@@ -1,0 +1,27 @@
+"Open Design Exhibition: here's how it works!" in english
+panel with image aligned center single http://okfestival.org/wp-content/themes/okfestival-wordpress/images/logo.png
+massimo says "Welcome to the Open Design Exhibition process!"
+
+a new desert panel
+massimo says "We've been thinking about developing an Open Design Exhibition for the Open Knowledge Festival 2012..."
+
+panel with image aligned top single http://upload.wikimedia.org/wikipedia/commons/c/c1/HelsinkiMontage_NoEffects.jpg
+massimo says "... that will take place in Helsinki in September 2012!"
+
+a new large crowded panel
+massimo says "... so we thought about fabricating physical object in the Aalto FabLab"
+
+a new office panel
+massimo using mac says "... but we are very busy with the Festival, so it will be just a poster exhibition, for the moment."
+
+a new office panel
+massimo using mac says "But the exhibition itself is open source, and available on Github!"
+
+a new crowded panel
+massimo replies "... so, in the future, it could be expanded into something bigger!!"
+
+a new panic panel
+massimo says "So feel free to fork it or contact me at info@openp2pdesign.org"
+
+very large crowded panel
+narrator says "... to be continued... by all of you! :-)"
