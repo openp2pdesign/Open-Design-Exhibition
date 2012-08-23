@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0562049"
-     inkscape:cx="913.07496"
-     inkscape:cy="329.79901"
+     inkscape:zoom="0.48277261"
+     inkscape:cx="17.072356"
+     inkscape:cy="1001.4033"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      inkscape:window-width="2560"
@@ -4889,27 +4889,18 @@
      id="layer1"
      transform="translate(0,1052.3624)"
      style="display:inline">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.54330708999999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 0,701.05658 1488.189,0"
        id="rect3008"
-       width="1485.6819"
-       height="351.82361"
-       x="1.2535399"
-       y="701.05658" />
-    <rect
-       y="-171.19391"
-       x="1.9716867"
-       height="871.25348"
-       width="1484.2456"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.73824978;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 0,-170.99388 1488.189,0"
        id="rect3778"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.94337344;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.94337344;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3780"
-       width="1484.2456"
-       height="871.25348"
-       x="1.9716867"
-       y="-1044.3907" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
