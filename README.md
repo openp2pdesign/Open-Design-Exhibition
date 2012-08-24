@@ -3,31 +3,31 @@ Open-Design-Exhibition
 
 An exhibition about Open Design and Open Hardware, originally created for the Open Knowledge Festival 2012
 
-Pictures to show
-
+Content of the exhibition
+-------------------------
 
 1. Ronen Kadushin: 
-1.1 http://www.ronen-kadushin.com/Open_Design.asp
+	1. http://www.ronen-kadushin.com/Open_Design.asp
 2. various, Open Design Now book
 3. Buglabs
 4. Cory Doctorow, Makers Book
 5. Arduino
-5.1. http://www.flickr.com/photos/todotoit/6362485989/in/set-72157628043353715
-5.2. http://www.flickr.com/photos/todotoit/6360368761/in/set-72157628043353715
-5.3. http://www.flickr.com/photos/todotoit/6360362635/in/set-72157628043353715
-5.4. http://www.flickr.com/photos/todotoit/6360873071/in/set-72157628043353715
-5.5. http://www.flickr.com/photos/todotoit/6436970145/in/set-72157628237067487
-5.6. http://www.flickr.com/photos/todotoit/6436903531/in/set-72157628237067487
+	1. http://www.flickr.com/photos/todotoit/6362485989/in/set-72157628043353715
+	2. http://www.flickr.com/photos/todotoit/6360368761/in/set-72157628043353715
+	3. http://www.flickr.com/photos/todotoit/6360362635/in/set-72157628043353715
+	4. http://www.flickr.com/photos/todotoit/6360873071/in/set-72157628043353715
+	5. http://www.flickr.com/photos/todotoit/6436970145/in/set-72157628237067487
+	6. http://www.flickr.com/photos/todotoit/6436903531/in/set-72157628237067487
 6. diylilcnc
 7. Pietro Leoni, Chaise Long
 8. SmartCitizen
 9. Massimo Menichinelli, FABMoney
 10. OpenWear 
-10.1. http://openwear.org/lookmap
-Unlimited Design Contest
-http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
-http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
-http://unlimiteddesigncontest.org/en/product/shades-wood-0
+	1. http://openwear.org/lookmap
+11. Unlimited Design Contest
+	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
+	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
+	3. http://unlimiteddesigncontest.org/en/product/shades-wood-0
 Open Hardware?
 Thingiverse 
 http://www.thingiverse.com/thing:26920
