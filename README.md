@@ -27,6 +27,9 @@ Content of the exhibition
 	5. http://bugcommunity.com/wiki/index.php/Hardware_Specifications
 	6. http://www.flickr.com/photos/bug_labs/
 	7. http://bugcommunity.com/wiki/index.php/BUGbase
+	8. http://en.wikipedia.org/wiki/Neo_1973
+	9. http://www.flickr.com/photos/roland/2049683212/
+	10. http://www.flickr.com/photos/yoshihuang/3047259229/
 6. Reprap
 	1. http://reprap.org/wiki/Mendel
 	2. http://reprap.org/wiki/RepRap_Family_Tree
