@@ -9,24 +9,38 @@ An exhibition about Open Design and Open Hardware, originally created for the Op
 Content of the exhibition
 -------------------------
 
-0. Introduction
 1. Open Hardware / Open Design Definition
+	1. http://freedomdefined.org/OSHW
+	2. https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition
 2. Free Beer
+	1. http://freebeer.org/blog/
+	2. http://en.wikipedia.org/wiki/Free_Beer
 3. Ronen Kadushin: 
 	1. http://www.ronen-kadushin.com/Open_Design.asp
 4. Arduino / Lilypad
+	1. http://arduino.cc/en/Main/Hardware
 5. OpenMoko / Buglabs
+	1. fd
+	2. http://www.buglabs.net/bugsystem
+	3. http://wiki.buglabs.net/index.php/Welcome_to_BUG_Wiki
+	4. http://bugcommunity.com/wiki/index.php/Hardware_Specifications
 6. Reprap
+	1. http://reprap.org/wiki/Mendel
+	2. http://reprap.org/wiki/RepRap_Family_Tree
 7. Makerbot / Thingiverse 
-	1. http://www.thingiverse.com/thing:26920 
-	2. http://www.thingiverse.com/thing:13827 
-	3. http://store.makerbot.com/makerbot-botmobile.html 
-	4. http://www.thingiverse.com/thing:13915
+	1. http://store.makerbot.com/replicator.html
+	2. http://www.thingiverse.com/thing:26920 
+	3. http://www.thingiverse.com/thing:13827 
+	4. http://store.makerbot.com/makerbot-botmobile.html 
+	5. http://www.thingiverse.com/thing:13915
+	6. http://www.wired.com/design/2012/08/tangibot-makerbot-clone/
 8. Unlimited Design Contest
 	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
 	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
 	3. http://unlimiteddesigncontest.org/en/product/shades-wood-0
 9. Cory Doctorow, *Makers* Book / *Open Design Now* book
+	1. http://craphound.com/makers/download/
+	2. http://opendesignnow.org/
 10. OpenWear 
 	1. http://openwear.org/lookmap
 11. Typography: 
@@ -34,10 +48,17 @@ Content of the exhibition
 	2. http://font.ubuntu.com/
 	3. http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Gentium_download
 12. Instructable restaurant
-13. Domus: Autoprogettazione 2.0: Pietro Leoni, Chaise Long
+	1. http://instructablesrestaurant.com/
+	2. http://www.instructables.com/id/How-to-make-an-Instructables-Restaurant/
+13. Enzo Mari / Domus: Autoprogettazione 2.0: Pietro Leoni, Chaise Long
+	1. http://www.domusweb.it/it/upcoming-event/call-for-ideas-autoprogettazione-20-/
+	2. http://www.domusweb.it/it/news/design-communities/
+	3. http://lad-legnoarchitetturadesign.com/2012/02/25/enzo-mari-autoprogettazione-story/
 14. FABMoney
+	1. https://github.com/OpenP2PDesignOrg/FABMoney
 15. Open structures:
 	1. http://www.domusweb.it/en/design/open-source-design-05-the-esperanto-of-objects/
+	2. http://www.openstructures.net/
 16. One open N.E.R.V.O.U.S. project
 	1. https://twitter.com/nervous_jessica/status/179913452331077632
 	2. http://www.thingiverse.com/nervoussystem
