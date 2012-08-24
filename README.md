@@ -20,10 +20,13 @@ Content of the exhibition
 4. Arduino / Lilypad
 	1. http://arduino.cc/en/Main/Hardware
 5. OpenMoko / Buglabs
-	1. fd
-	2. http://www.buglabs.net/bugsystem
-	3. http://wiki.buglabs.net/index.php/Welcome_to_BUG_Wiki
-	4. http://bugcommunity.com/wiki/index.php/Hardware_Specifications
+	1. http://www.openmoko.com/
+	2. http://en.wikipedia.org/wiki/Openmoko
+	3. http://www.buglabs.net/bugsystem
+	4. http://wiki.buglabs.net/index.php/Welcome_to_BUG_Wiki
+	5. http://bugcommunity.com/wiki/index.php/Hardware_Specifications
+	6. http://www.flickr.com/photos/bug_labs/
+	7. http://bugcommunity.com/wiki/index.php/BUGbase
 6. Reprap
 	1. http://reprap.org/wiki/Mendel
 	2. http://reprap.org/wiki/RepRap_Family_Tree
