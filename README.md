@@ -33,6 +33,10 @@ Content of the exhibition
 6. Reprap
 	1. http://reprap.org/wiki/Mendel
 	2. http://reprap.org/wiki/RepRap_Family_Tree
+	3. http://www.thingiverse.com/thing:9088
+	4. http://reprap.org/wiki/Darwin
+	5. http://sourceforge.net/projects/reprap/files/
+	6. http://reprap.org/wiki/Mechanical_construction
 7. Makerbot / Thingiverse 
 	1. http://store.makerbot.com/replicator.html
 	2. http://www.thingiverse.com/thing:26920 
