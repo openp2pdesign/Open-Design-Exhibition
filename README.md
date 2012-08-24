@@ -6,9 +6,11 @@ An exhibition about Open Design and Open Hardware, originally created for the Op
 Content of the exhibition
 -------------------------
 
-1. Ronen Kadushin: 
+0. Introduction
+1. Open Design Definition
+2. Ronen Kadushin: 
 	1. http://www.ronen-kadushin.com/Open_Design.asp
-2. various, Open Design Now book
+3. various, Open Design Now book
 3. Buglabs
 4. Cory Doctorow, Makers Book
 5. Arduino
@@ -28,33 +30,30 @@ Content of the exhibition
 	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
 	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
 	3. http://unlimiteddesigncontest.org/en/product/shades-wood-0
-Open Hardware?
-Thingiverse 
-http://www.thingiverse.com/thing:26920
-Thingiverse 
-http://www.thingiverse.com/thing:13827 
-http://store.makerbot.com/makerbot-botmobile.html 
-http://www.thingiverse.com/thing:13915
-Zapatos Open Source 
-http://www.goteo.org/project/zapatos-open-source?lang=en
-http://zapatos.fablabbcn.org/
-Ultimaker / RepRap
-typography: gentium
-typography: adobe open font
-http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html#.UBrON7Pu_VM.twitter
-http://font.ubuntu.com/
-http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Gentium_download
-instructable restaurant
-ifixit manifesto: 
-http://www.ifixit.com/Manifesto
-open structure: http://www.domusweb.it/en/design/open-source-design-05-the-esperanto-of-objects/
-one open N.E.R.V.O.U.S. project
-https://twitter.com/nervous_jessica/status/179913452331077632
-http://www.thingiverse.com/nervoussystem
-http://n-e-r-v-o-u-s.com/blog/?p=2295
-free universal construction kit 
-http://fffff.at/free-universal-construction-kit/
-openmoko
-wikihouse.cc 
-http://www.wikihouse.cc/index.html
-Open Design definition (at the beginning
+12. Thingiverse 
+	1. http://www.thingiverse.com/thing:26920 
+	2. http://www.thingiverse.com/thing:13827 
+	3. http://store.makerbot.com/makerbot-botmobile.html 
+	4. http://www.thingiverse.com/thing:13915
+13. Zapatos Open Source 
+	1. http://www.goteo.org/project/zapatos-open-source?lang=en
+	2. http://zapatos.fablabbcn.org/
+14. Ultimaker / RepRap
+15. Typography: 
+	1. http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html#.UBrON7Pu_VM.twitter
+	2. http://font.ubuntu.com/
+	3. http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Gentium_download
+16. Instructable restaurant
+17. ifixit manifesto: 
+	1. http://www.ifixit.com/Manifesto
+18. Open structures:
+	1. http://www.domusweb.it/en/design/open-source-design-05-the-esperanto-of-objects/
+19. one open N.E.R.V.O.U.S. project
+	1. https://twitter.com/nervous_jessica/status/179913452331077632
+	2. http://www.thingiverse.com/nervoussystem
+	3. http://n-e-r-v-o-u-s.com/blog/?p=2295
+20. Free universal construction kit 
+	1. http://fffff.at/free-universal-construction-kit/
+21. openmoko
+22. wikihouse.cc 
+	1. http://www.wikihouse.cc/index.html
