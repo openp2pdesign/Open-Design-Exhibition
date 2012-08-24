@@ -17,7 +17,7 @@ Content of the exhibition
 	2. http://en.wikipedia.org/wiki/Free_Beer
 3. Ronen Kadushin: DOWNLOADED
 	1. http://www.ronen-kadushin.com/Open_Design.asp
-4. Arduino / Lilypad
+4. Arduino / Lilypad DOWNLOADED
 	1. http://arduino.cc/en/Main/Hardware
 	2. http://www.flickr.com/photos/snootlab/6052455554/
 	3. http://www.flickr.com/photos/snootlab/6052455572/
@@ -75,18 +75,19 @@ Content of the exhibition
 15. Open structures:
 	1. http://www.domusweb.it/en/design/open-source-design-05-the-esperanto-of-objects/
 	2. http://www.openstructures.net/
-16. One open N.E.R.V.O.U.S. project
+16. One open N.E.R.V.O.U.S. project DOWNLOADED
 	1. https://twitter.com/nervous_jessica/status/179913452331077632
 	2. http://www.thingiverse.com/nervoussystem
 	3. http://n-e-r-v-o-u-s.com/blog/?p=2295
 	4. http://www.thingiverse.com/thing:7045
 	5. http://www.flickr.com/photos/aaltofablab/7801780578/in/photostream
 	6. http://www.flickr.com/photos/aaltofablab/7801683934/in/photostream
-17. Free universal construction kit 
+17. Free universal construction kit DOWLOADED
 	1. http://fffff.at/free-universal-construction-kit/
 	2. http://www.thingiverse.com/thing:19276
 18. wikihouse.cc 
 	1. http://www.wikihouse.cc/index.html
+	2. http://www.wikihouse.cc/library/designs/40002
 	
 	
 LICENSE
