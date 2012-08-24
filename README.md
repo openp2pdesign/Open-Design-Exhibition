@@ -9,7 +9,7 @@ An exhibition about Open Design and Open Hardware, originally created for the Op
 Content of the exhibition
 -------------------------
 
-1. Open Hardware / Open Design Definition
+1. Introduction / Open Hardware / Open Design Definition
 	1. http://freedomdefined.org/OSHW
 	2. https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition
 2. Free Beer
@@ -43,6 +43,8 @@ Content of the exhibition
 	2. http://opendesignnow.org/
 10. OpenWear 
 	1. http://openwear.org/lookmap
+	2. http://openwear.org/lookmap/item/1
+	3. http://openwear.org/lookmap/item/5
 11. Typography: 
 	1. http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
 	2. http://font.ubuntu.com/
@@ -63,8 +65,12 @@ Content of the exhibition
 	1. https://twitter.com/nervous_jessica/status/179913452331077632
 	2. http://www.thingiverse.com/nervoussystem
 	3. http://n-e-r-v-o-u-s.com/blog/?p=2295
+	4. http://www.thingiverse.com/thing:7045
+	5. http://www.flickr.com/photos/aaltofablab/7801780578/in/photostream
+	6. http://www.flickr.com/photos/aaltofablab/7801683934/in/photostream
 17. Free universal construction kit 
 	1. http://fffff.at/free-universal-construction-kit/
+	2. http://www.thingiverse.com/thing:19276
 18. wikihouse.cc 
 	1. http://www.wikihouse.cc/index.html
 	
