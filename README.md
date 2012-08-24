@@ -15,11 +15,15 @@ Content of the exhibition
 2. Free Beer
 	1. http://freebeer.org/blog/
 	2. http://en.wikipedia.org/wiki/Free_Beer
-3. Ronen Kadushin: 
+3. Ronen Kadushin: DOWNLOADED
 	1. http://www.ronen-kadushin.com/Open_Design.asp
 4. Arduino / Lilypad
 	1. http://arduino.cc/en/Main/Hardware
-5. OpenMoko / Buglabs
+	2. http://www.flickr.com/photos/snootlab/6052455554/
+	3. http://www.flickr.com/photos/snootlab/6052455572/
+	4. http://www.flickr.com/photos/mellis/4784966202/
+	
+5. OpenMoko / Buglabs DOWNLOADED
 	1. http://www.openmoko.com/
 	2. http://en.wikipedia.org/wiki/Openmoko
 	3. http://www.buglabs.net/bugsystem
@@ -30,7 +34,7 @@ Content of the exhibition
 	8. http://en.wikipedia.org/wiki/Neo_1973
 	9. http://www.flickr.com/photos/roland/2049683212/
 	10. http://www.flickr.com/photos/yoshihuang/3047259229/
-6. Reprap
+6. Reprap DOWNLOADED
 	1. http://reprap.org/wiki/Mendel
 	2. http://reprap.org/wiki/RepRap_Family_Tree
 	3. http://www.thingiverse.com/thing:9088
@@ -51,7 +55,7 @@ Content of the exhibition
 9. Cory Doctorow, *Makers* Book / *Open Design Now* book
 	1. http://craphound.com/makers/download/
 	2. http://opendesignnow.org/
-10. OpenWear 
+10. OpenWear DOWNLOADED
 	1. http://openwear.org/lookmap
 	2. http://openwear.org/lookmap/item/1
 	3. http://openwear.org/lookmap/item/5
