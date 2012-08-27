@@ -68,6 +68,12 @@ Content of the exhibition
 12. Instructable restaurant
 	1. http://instructablesrestaurant.com/
 	2. http://www.instructables.com/id/How-to-make-an-Instructables-Restaurant/
+	3. http://www.flickr.com/photos/fablabamsterdam/4195059349/
+	4. http://www.flickr.com/photos/fablabamsterdam/4195825898/
+	5. http://www.flickr.com/photos/fablabamsterdam/4348638836
+	6. http://www.flickr.com/photos/fablabamsterdam/4211201828/
+	7. http://www.flickr.com/photos/fablabamsterdam/4196919651/
+	8. http://www.flickr.com/photos/fablabamsterdam/4210437373/
 13. Enzo Mari / Domus: Autoprogettazione 2.0: Pietro Leoni, Chaise Long
 	1. http://www.domusweb.it/it/upcoming-event/call-for-ideas-autoprogettazione-20-/
 	2. http://www.domusweb.it/it/news/design-communities/
