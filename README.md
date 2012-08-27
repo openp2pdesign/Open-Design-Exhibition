@@ -65,7 +65,7 @@ Content of the exhibition
 	1. http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
 	2. http://font.ubuntu.com/
 	3. http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Gentium_download
-12. Instructable restaurant
+12. Instructable restaurant DOWNLOADED
 	1. http://instructablesrestaurant.com/
 	2. http://www.instructables.com/id/How-to-make-an-Instructables-Restaurant/
 	3. http://www.flickr.com/photos/fablabamsterdam/4195059349/
@@ -74,10 +74,13 @@ Content of the exhibition
 	6. http://www.flickr.com/photos/fablabamsterdam/4211201828/
 	7. http://www.flickr.com/photos/fablabamsterdam/4196919651/
 	8. http://www.flickr.com/photos/fablabamsterdam/4210437373/
-13. Enzo Mari / Domus: Autoprogettazione 2.0: Pietro Leoni, Chaise Long
+13. Enzo Mari / Domus: Autoprogettazione 2.0 DOWNLOADED
 	1. http://www.domusweb.it/it/upcoming-event/call-for-ideas-autoprogettazione-20-/
 	2. http://www.domusweb.it/it/news/design-communities/
-	3. http://lad-legnoarchitetturadesign.com/2012/02/25/enzo-mari-autoprogettazione-story/
+	3. http://www.domusweb.it/download/CHAISE_LOUNGE_it.pdf
+	4. http://lad-legnoarchitetturadesign.com/2012/02/25/enzo-mari-autoprogettazione-story/
+	5. http://www.aaschool.ac.uk/Downloads/Autoprogettazione_Revisited_instructions_web.pdf
+	6. http://www.flickr.com/photos/designetrecherche/7724193452/
 14. FABMoney
 	1. https://github.com/OpenP2PDesignOrg/FABMoney
 15. Open structures:
