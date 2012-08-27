@@ -83,9 +83,10 @@ Content of the exhibition
 	6. http://www.flickr.com/photos/designetrecherche/7724193452/
 14. FABMoney
 	1. https://github.com/OpenP2PDesignOrg/FABMoney
-15. Open structures:
+15. Open structures: DOWNLOADED
 	1. http://www.domusweb.it/en/design/open-source-design-05-the-esperanto-of-objects/
 	2. http://www.openstructures.net/
+	3. http://www.openstructures.net/pages/44/parts/71
 16. One open N.E.R.V.O.U.S. project DOWNLOADED
 	1. https://twitter.com/nervous_jessica/status/179913452331077632
 	2. http://www.thingiverse.com/nervoussystem
