@@ -13,9 +13,13 @@ Content of the exhibition
 	1. http://freedomdefined.org/OSHW
 	2. https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition
 	3. http://creativecommons.org/about/downloads/
-2. Free Beer
+2. Free Beer / Open Drinks DOWNLOADED
 	1. http://freebeer.org/blog/
 	2. http://en.wikipedia.org/wiki/Free_Beer
+	3. http://www.flickr.com/photos/16038409@N02/2327138220/
+	4. http://www.flickr.com/photos/copenhagenbrains/827570404/
+	5. http://www.flickr.com/photos/16038409@N02/1883105436/
+	6. http://en.wikipedia.org/wiki/OpenCola_(drink)
 3. Ronen Kadushin: DOWNLOADED
 	1. http://www.ronen-kadushin.com/Open_Design.asp
 4. Arduino / Lilypad DOWNLOADED
@@ -54,9 +58,10 @@ Content of the exhibition
 	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
 	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
 	3. http://unlimiteddesigncontest.org/en/product/shades-wood-0
-9. Cory Doctorow, *Makers* Book / *Open Design Now* book
+9. Cory Doctorow, *Makers* Book / *Open Design Now* book DOWNLOADED
 	1. http://craphound.com/makers/download/
 	2. http://opendesignnow.org/
+	3. http://www.flickr.com/photos/aaltofablab/
 10. OpenWear DOWNLOADED
 	1. http://openwear.org/lookmap
 	2. http://openwear.org/lookmap/item/1
