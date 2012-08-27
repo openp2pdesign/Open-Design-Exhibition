@@ -102,9 +102,13 @@ Content of the exhibition
 17. Free universal construction kit DOWLOADED
 	1. http://fffff.at/free-universal-construction-kit/
 	2. http://www.thingiverse.com/thing:19276
-18. wikihouse.cc DOWLOADED
+18. Open Source Ecology
+	1. http://opensourceecology.org/
+	2. http://issuu.com/amakaruk/docs/civilization_starter_kit_-_v.0.01/51
+19. wikihouse.cc DOWLOADED
 	1. http://www.wikihouse.cc/index.html
 	2. http://www.wikihouse.cc/library/designs/40002
+
 	
 	
 LICENSE
