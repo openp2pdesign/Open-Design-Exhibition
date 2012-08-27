@@ -9,9 +9,10 @@ An exhibition about Open Design and Open Hardware, originally created for the Op
 Content of the exhibition
 -------------------------
 
-1. Introduction / Open Hardware / Open Design Definition
+1. Introduction / Open Hardware / Open Design Definition / Creative Commons
 	1. http://freedomdefined.org/OSHW
 	2. https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition
+	3. http://creativecommons.org/about/downloads/
 2. Free Beer
 	1. http://freebeer.org/blog/
 	2. http://en.wikipedia.org/wiki/Free_Beer
@@ -22,7 +23,6 @@ Content of the exhibition
 	2. http://www.flickr.com/photos/snootlab/6052455554/
 	3. http://www.flickr.com/photos/snootlab/6052455572/
 	4. http://www.flickr.com/photos/mellis/4784966202/
-	
 5. OpenMoko / Buglabs DOWNLOADED
 	1. http://www.openmoko.com/
 	2. http://en.wikipedia.org/wiki/Openmoko
@@ -41,14 +41,16 @@ Content of the exhibition
 	4. http://reprap.org/wiki/Darwin
 	5. http://sourceforge.net/projects/reprap/files/
 	6. http://reprap.org/wiki/Mechanical_construction
-7. Makerbot / Thingiverse 
+7. Makerbot / Thingiverse DOWNLOADED
 	1. http://store.makerbot.com/replicator.html
-	2. http://www.thingiverse.com/thing:26920 
+	2. http://www.flickr.com/photos/makerbot/sets/72157628795264965/ 
 	3. http://www.thingiverse.com/thing:13827 
 	4. http://store.makerbot.com/makerbot-botmobile.html 
-	5. http://www.thingiverse.com/thing:13915
-	6. http://www.wired.com/design/2012/08/tangibot-makerbot-clone/
-8. Unlimited Design Contest
+	5. http://www.flickr.com/photos/makerbot/3414725295/in/set-72157616391890906/
+	6. http://en.wikipedia.org/wiki/File:MakerBot_ThingOMatic_Bre_Pettis.jpg
+	7. http://www.flickr.com/photos/makerbot/sets/72157616399742100/
+	8. http://www.flickr.com/photos/makerbot/sets/72157625418410849/
+8. Unlimited Design Contest DOWNLOADED
 	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
 	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
 	3. http://unlimiteddesigncontest.org/en/product/shades-wood-0
@@ -85,7 +87,7 @@ Content of the exhibition
 17. Free universal construction kit DOWLOADED
 	1. http://fffff.at/free-universal-construction-kit/
 	2. http://www.thingiverse.com/thing:19276
-18. wikihouse.cc 
+18. wikihouse.cc DOWLOADED
 	1. http://www.wikihouse.cc/index.html
 	2. http://www.wikihouse.cc/library/designs/40002
 	
