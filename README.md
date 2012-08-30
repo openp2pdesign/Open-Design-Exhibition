@@ -66,6 +66,7 @@ Content of the exhibition
 	1. http://openwear.org/lookmap
 	2. http://openwear.org/lookmap/item/1
 	3. http://openwear.org/lookmap/item/5
+	4. http://openwear.org/info/help
 11. Typography: 
 	1. http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
 	2. http://font.ubuntu.com/
@@ -105,6 +106,8 @@ Content of the exhibition
 18. Open Source Ecology
 	1. http://opensourceecology.org/
 	2. http://issuu.com/amakaruk/docs/civilization_starter_kit_-_v.0.01/51
+	3. http://www.flickr.com/photos/analani/6406984063/
+	4. http://www.flickr.com/photos/24539119@N07/5878811403/
 19. wikihouse.cc DOWLOADED
 	1. http://www.wikihouse.cc/index.html
 	2. http://www.wikihouse.cc/library/designs/40002
