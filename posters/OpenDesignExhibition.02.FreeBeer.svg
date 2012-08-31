@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9601,7 +9601,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
        transform="translate(44,-956.3624)"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><flowRegion
@@ -9611,10 +9611,10 @@
            height="317.17331"
            x="337.05582"
            y="1767.6686"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
-         id="flowPara7538">The name &quot;Free Beer&quot; is a play on Richard Stallman's common explanation that free software is &quot;free as in speech, not free as in beer&quot;. With this sentence, Stallman wanted to stress the difference between free software intended as for free (without a price to pay) and free software as a tool for personal freedom, which is the real important issue in free software and then open source.</flowPara><flowPara
-         id="flowPara7540">The beer was created by students at the IT-University in Copenhagen together with Superflex, a Copenhagen-based artist collective, to illustrate how concepts of the free software movement might be applied outside the digital world. It is therefore one of the first cases of Open Design, as the brand itself (not just the recipe) is completely open source. </flowPara><flowPara
-         id="flowPara7542">According to the Wikipedia page of the project, the recipe has now reached version 4.0, and corrects most of the above mistakes. The quality of the beer also improved, since the amount of sugar in it decreased by 90%. There are at least other two beers that were derived from this, but the list of open source beers and drinks is now long, witnessing the fact that the adoption of open source dynamics in the physical world is a promising strategy.</flowPara></flowRoot>    <flowRoot
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
+         id="flowPara57843">The name &quot;Free Beer&quot; is a play on Richard Stallman's common explanation that free software is &quot;free as in speech, not free as in beer&quot;. With this sentence, Stallman wanted to stress the difference between free software intended as for free (without a price to pay) and free software as a tool for personal freedom, which is the real important issue in free software and then open source.</flowPara><flowPara
+         id="flowPara57845">The beer was created by students at the IT-University in Copenhagen together with Superflex, a Copenhagen-based artist collective, to illustrate how concepts of the free software movement might be applied outside the digital world. It is therefore one of the first cases of Open Design, as the brand itself (not just the recipe) is completely open source. </flowPara><flowPara
+         id="flowPara57847">According to the Wikipedia page of the project, the recipe has now reached version 4.0, and corrects most of the above mistakes. There are at least other two beers that were derived from this, but the list of open source beers and drinks is now long, witnessing the fact that the adoption of open source dynamics in the physical world is a promising strategy.</flowPara></flowRoot>    <flowRoot
        transform="translate(44,-1038.3624)"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika Bold"
        id="flowRoot7794"

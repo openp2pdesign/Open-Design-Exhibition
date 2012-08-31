@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="OpenDesignExhibition.01.Definition.svg"
-   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/OpenDesignExhibition.01.Definition.png"
+   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/png posters/OpenDesignExhibition.01.Definition.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.274725"
-     inkscape:cx="1498.5"
-     inkscape:cy="2086.5"
+     inkscape:zoom="1"
+     inkscape:cx="1092.4313"
+     inkscape:cy="126.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -9847,7 +9847,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
        transform="translate(44,-968.3624)"><flowRegion
          id="flowRegion7761"><rect
            id="rect7763"
@@ -9855,10 +9855,9 @@
            height="317.17331"
            x="337.05582"
            y="1767.6686"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
-         id="flowPara4524">An exhibition about Open Design should start with a definition of what Open Design is or is not, but unfortunately such a comprehensive definition has yet to be finalised. Moreover, in its current state the linguistics of the word “design” include many potential meanings and applications. To quote a much-used phrase, to “design is to design a design to produce a design”.</flowPara><flowPara
-         id="flowPara4526">The Open Design working group at Open Knowledge Foundation and started with the help of Aalto Media Factory, has started the process of developing a formal Open Design Definition. The group want to develop this missing definition through inclusive and collaborative methods rooted in public discussion, workshopping and sharing different understandings of this field to ensure such a definition will adequately cover all the potential meanings and applications of design.</flowPara><flowPara
-         id="flowPara4528">Moreover, the group want the product of this collaboration to be developed and “owned” by a wide community of people interested in Open Design, not the result of a closed-door discussion.  Therefore the definition will be developed using the methodologies of the Open Source movement by releasing early and releasing often all the information, ideas and tools we use together. Meanwhile, we could have a look at the Open Hardware Definition, since it is closely related to design intended as the production of physical artifacts.</flowPara></flowRoot>    <flowRoot
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
+         id="flowPara53360">An exhibition about Open Design should start with a definition of what Open Design is or is not, but unfortunately such a comprehensive definition has yet to be finalised. Moreover, in its current state the linguistics of the word “design” include many potential meanings and applications. The Open Design working group at Open Knowledge Foundation and started with the help of Aalto Media Factory, has started the process of developing a formal Open Design Definition. </flowPara><flowPara
+         id="flowPara53362">The group want to develop this missing definition through inclusive and collaborative methods rooted in public discussion, workshopping and sharing different understandings of this field to ensure such a definition will adequately cover all the potential meanings and applications of design. Moreover, the group want the product of this collaboration to be developed and “owned” by a wide community of people interested in Open Design, not the result of a closed-door discussion. Therefore the definition will be developed using the methodologies of the Open Source movement by releasing early and releasing often all the information, ideas and tools we use together. Meanwhile, we could have a look at the Open Hardware Definition, since it is closely related to design intended as the production of physical artifacts.</flowPara></flowRoot>    <flowRoot
        transform="translate(44,-1050.3624)"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika Bold"
        id="flowRoot7794"

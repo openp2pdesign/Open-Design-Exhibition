@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="OpenDesignExhibition.04.Arduino.svg"
-   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/OpenDesignExhibition.04.Arduino.png"
+   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/png posters/OpenDesignExhibition.04.Arduino.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -215,7 +215,7 @@
      inkscape:cx="600.03008"
      inkscape:cy="200.43969"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
      inkscape:window-width="2560"
@@ -9919,7 +9919,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
        transform="translate(44,-956.3624)"
        inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/png posters/OpenDesignExhibition.04.Arduino.png"
        inkscape:export-xdpi="600"
@@ -9930,11 +9930,9 @@
            height="317.17331"
            x="337.05582"
            y="1767.6686"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
-         id="flowPara14142">Arduino is a popular open-source single-board microcontroller designed to make the process of using electronics in multidisciplinary projects more accessible. The hardware consists of a simple open hardware design for the Arduino board with an Atmel AVR processor and on-board input/output support. The software consists of a standard programming language compiler and the boot loader that runs on the board.</flowPara><flowPara
-         id="flowPara14144"></flowPara><flowPara
-         id="flowPara14146">The Arduino Uno is a microcontroller board based on the ATmega328. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.</flowPara><flowPara
-         id="flowPara14148">The LilyPad Arduino is a microcontroller board designed for wearables and e-textiles. It can be sewn to fabric and similarly mounted power supplies, sensors and actuators with conductive thread. The board is based on the ATmega168V (the low-power version of the ATmega168) or the ATmega328V. The LilyPad Arduino was designed and developed by Leah Buechley and SparkFun Electronics.</flowPara></flowRoot>    <flowRoot
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
+         id="flowPara64423">Arduino is a popular open-source single-board microcontroller designed to make the process of using electronics in multidisciplinary projects more accessible. The hardware consists of a simple open hardware design for the Arduino board with an Atmel AVR processor and on-board input/output support. The software consists of a standard programming language compiler and the boot loader that runs on the board.</flowPara><flowPara
+         id="flowPara64425">The Arduino Uno is a microcontroller board based on the ATmega328. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The LilyPad Arduino is a microcontroller board designed for wearables and e-textiles. It can be sewn to fabric and similarly mounted power supplies, sensors and actuators with conductive thread. The board is based on the ATmega168V (the low-power version of the ATmega168) or the ATmega328V. The LilyPad Arduino was designed and developed by Leah Buechley and SparkFun Electronics.</flowPara></flowRoot>    <flowRoot
        transform="translate(44,-1038.3624)"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika Bold"
        id="flowRoot7794"

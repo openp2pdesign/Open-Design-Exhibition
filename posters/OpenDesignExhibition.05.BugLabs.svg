@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="OpenDesignExhibition.05.BugLabs.svg">
+   sodipodi:docname="OpenDesignExhibition.05.BugLabs.svg"
+   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/png posters/OpenDesignExhibition.05.BugLabs.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4">
     <rect
@@ -287,7 +290,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10045,7 +10048,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
        transform="translate(44,-956.3624)"><flowRegion
          id="flowRegion7761"><rect
            id="rect7763"
@@ -10053,7 +10056,7 @@
            height="317.17331"
            x="337.05582"
            y="1767.6686"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
          id="flowPara37002">Bug Labs is a technology company headquartered in New York City that develops and sells open-source hardware peripherals for rapid prototyping of electronic devices. The company developed a Lego-like hardware platform that technology enthusiasts, hobbyists and engineers can use to create their own digital devices. The Bug System is therefore an integrated hardware, software and cloud-based solution,  where Hardware, Software and Design are open source at the same time.</flowPara><flowPara
          id="flowPara37004">The Bug System is not the first product to be completely open source, but it is for sure the first successful product to be open source, reaching a revenue of more than 1 milion of dollars. Its success can be also measured with the recent partnership with the Ford Car Company for providing each Ford car with a Bug System.</flowPara></flowRoot>    <flowRoot
        transform="translate(44,-1038.3624)"
