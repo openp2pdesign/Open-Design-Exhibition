@@ -54,6 +54,7 @@ Content of the exhibition
 	6. http://en.wikipedia.org/wiki/File:MakerBot_ThingOMatic_Bre_Pettis.jpg
 	7. http://www.flickr.com/photos/makerbot/sets/72157616399742100/
 	8. http://www.flickr.com/photos/makerbot/sets/72157625418410849/
+	9. http://www.makerbot.com/docs/replicator/schematics/
 8. Unlimited Design Contest DOWNLOADED
 	1. http://unlimiteddesigncontest.org/en/product/capital-full-stop-1
 	2. http://unlimiteddesigncontest.org/en/product/hexagonale-papieren-jurk
@@ -106,8 +107,7 @@ Content of the exhibition
 18. Open Source Ecology
 	1. http://opensourceecology.org/
 	2. http://issuu.com/amakaruk/docs/civilization_starter_kit_-_v.0.01/51
-	3. http://www.flickr.com/photos/analani/6406984063/
-	4. http://www.flickr.com/photos/24539119@N07/5878811403/
+	3. http://www.flickr.com/photos/24539119@N07/5878811403/
 19. wikihouse.cc DOWLOADED
 	1. http://www.wikihouse.cc/index.html
 	2. http://www.wikihouse.cc/library/designs/40002
