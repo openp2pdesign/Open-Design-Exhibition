@@ -195,7 +195,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11587,7 +11587,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot7759"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"
        transform="translate(44,-956.3624)"><flowRegion
          id="flowRegion7761"><rect
            id="rect7763"
@@ -11595,9 +11595,11 @@
            height="317.17331"
            x="337.05582"
            y="1767.6686"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
-         id="flowPara11044">Ronen Kadushin can considered as the first professional designer adopting open source strategies for his personal work.</flowPara><flowPara
-         id="flowPara11046">The Open Design collection was developed as Ronen Kadushin's MA thesis and became the core of his creative work. The first projects were published as part of the Open Design collection in 2005. All the projects have been designed with the specific digital fabrication technologies needed for their manufacturing; therefore they are ready for local production.</flowPara></flowRoot>    <flowRoot
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr;text-anchor:start;font-family:Signika;-inkscape-font-specification:Signika" /></flowRegion><flowPara
+         id="flowPara43460">Ronen Kadushin can considered as the first professional designer adopting open source strategies for his personal work.</flowPara><flowPara
+         id="flowPara43462">The Open Design collection was developed as Ronen Kadushin's MA thesis and became the core of his creative work. The first projects were published as part of the Open Design collection in 2005. All the projects have been designed with the specific digital fabrication technologies needed for their manufacturing; therefore they are ready for local production.</flowPara><flowPara
+         id="flowPara43464">Ronen Kadushin wrote his Open Design Manifesto stating &quot;wrote:</flowPara><flowPara
+         id="flowPara43466">A revolution in product development, production and distribution is imminent due to the Internet's disruptive nature and the easy access to CNC machines. Open Design is a proposal to make this happen. It's aim is to shift Industrial Design to become relevant in a globally networked information society. In Open Design a design is CAD information published online under a Creative Commons license to be downloaded, copied and modified, and is produced directly from file by CNC machines and without special tooling&quot;.</flowPara></flowRoot>    <flowRoot
        transform="translate(44,-1038.3624)"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika Bold"
        id="flowRoot7794"

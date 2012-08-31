@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="OpenDesignExhibition.01.Introduction.svg">
+   sodipodi:docname="OpenDesignExhibition.01.Definition.svg"
+   inkscape:export-filename="/Users/massimo/Documents/Github/Open-Design-Exhibition/posters/OpenDesignExhibition.01.Definition.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs4">
     <rect
@@ -49,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2222877"
-     inkscape:cx="756"
-     inkscape:cy="266"
+     inkscape:zoom="12.274725"
+     inkscape:cx="1498.5"
+     inkscape:cy="2086.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -85,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10138,6 +10141,24 @@
            style="font-size:8.25858784px;font-style:normal;font-weight:bold;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
       </g>
     </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path21911"
+       d="m 0,-1052.1892 1488.189,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.73824978;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.5468843;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1.7716535,701.57456 0,-1757.48036"
+       id="path21913"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path21915"
+       d="m 1486.4173,701.57456 0,-1757.48036"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.5468843;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
   <g
      inkscape:groupmode="layer"
