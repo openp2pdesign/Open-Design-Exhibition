@@ -84,7 +84,7 @@ Content of the exhibition
 13. Enzo Mari / Domus: Autoprogettazione 2.0 DOWNLOADED
 	1. http://www.domusweb.it/it/upcoming-event/call-for-ideas-autoprogettazione-20-/
 	2. http://www.domusweb.it/it/news/design-communities/
-	3. http://www.domusweb.it/download/CHAISE_LOUNGE_it.pdf
+	3. http://www.domusweb.it/download/CHAISE_LOUNGE_en.pdf
 	4. http://lad-legnoarchitetturadesign.com/2012/02/25/enzo-mari-autoprogettazione-story/
 	5. http://www.aaschool.ac.uk/Downloads/Autoprogettazione_Revisited_instructions_web.pdf
 	6. http://www.flickr.com/photos/designetrecherche/7724193452/
